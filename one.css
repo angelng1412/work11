@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    border: 5px;
+    border-style: solid;
+    border-color: #FF0000;
+    color: #FFFFFF;
+    font: 70px arial; 
+}
+
+h2 {
+    text-align: center;
+    font: bold 35px sans-serif;
+    color: #FFFFFF;
+}
+
+h3 {
+    font: bold italic 20px courier new;
+    color: #FFFFFF;
+}
+
+a {
+    font: italic 30px times new roman;
+    color: #ff0000;
+}
+
+body {
+    background: #00FF00; 
+}
+
+p {
+    font: bold 20px courier new;
+    letter-spacing: 3px;
+    margin-left: 3cm;
+    margin-right: 3cm;
+}
+
