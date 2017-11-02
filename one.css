@@ -14,8 +14,9 @@ h2 {
 }
 
 h3 {
-    font: bold italic 20px courier new;
+    font: bold italic 30px courier new;
     color: #FFFFFF;
+    margin-left: 1cm;
 }
 
 a {
@@ -34,3 +35,26 @@ p {
     margin-right: 3cm;
 }
 
+.extreme {
+    font-family: "Comic Sans MS";
+    color: #f0f0ff;
+}
+
+#head1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.navzone {
+    border: solid 15px #ff0000;
+    margin-right: 25cm;
+}
+
+#tehlulz {
+    letter-spacing: 10px;
+    text-decoration: overline;
+}
+
+.content {
+    color: #ff00ff;
+}
